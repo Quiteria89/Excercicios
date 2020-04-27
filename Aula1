@@ -1,2 +1,6 @@
 # DESAFIO PYTHON
 # Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) - 58
+
+
+# DESAFIO FUNÇÕES
+# Reverso do número. Faça uma função que retorne o reverso de um número inteiro informado. Por exemplo: 127 -> 721.
